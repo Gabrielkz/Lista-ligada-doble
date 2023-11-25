@@ -5,7 +5,7 @@ all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Listas ligadas dobles
-VERSION or DATE: 3.0
+VERSION or DATE: 24/11/2023  V3.0
 AUTHORS: Gabriel Esteban Gonzalez Aguilar
 USER INSTRUCTIONS:
 -Buscar un nodo por el valor de su campo clave y devolver una referencia.
